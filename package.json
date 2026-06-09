@@ -1,0 +1,6 @@
+
+{ "name":"frontend","private":true,"version":"1.0.0",
+"type":"module",
+"scripts":{"dev":"vite"},
+"dependencies":{"react":"^18","react-dom":"^18","framer-motion":"^10"},
+"devDependencies":{"vite":"^5"}}
